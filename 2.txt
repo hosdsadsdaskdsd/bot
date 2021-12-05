@@ -1,0 +1,5 @@
+{
+	"ip":"GZ_SMP.aternos.me",
+	"port": "18353",
+	"name": "hellobot"
+}
